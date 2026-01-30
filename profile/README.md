@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="../../FE/public/logo.png" alt="SuiLife Logo" width="120" />
+<img src="https://github.com/Sui-Life/FE/blob/main/public/logo.png" alt="SuiLife Logo" width="120" />
 
 **Complete real-life missions and get rewarded with SUI on the Sui blockchain.**
 
